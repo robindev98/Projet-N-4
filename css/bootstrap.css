@@ -1436,7 +1436,9 @@ img {
 .thumbnail a>img,
 .thumbnail>img {
     display: block;
-    max-width: 100%;
+    max-width: 250px;
+    width: auto;
+    margin: auto;
     height: auto
 }
 
@@ -2085,7 +2087,9 @@ pre code {
 }
 
 .col-xs-12 {
-    width: 100%
+    width: 100%;
+    margin: auto;
+    float: none;
 }
 
 .col-xs-11 {
