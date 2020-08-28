@@ -447,7 +447,7 @@ nav .caret {
 
 .mg-lg {
     margin-top: 10px;
-    margin-bottom: 40px;
+    margin-bottom: 0px;
 }
 
 .btn {
@@ -513,6 +513,7 @@ button {
 .form-control {
     border-color: rgba(0, 0, 0, .1);
     box-shadow: none;
+    display: flex;
 }
 
 .scrollToTop {
@@ -682,7 +683,7 @@ a {
 }
 
 p {
-    font-size: 0.9em;
+    font-size: 1em;
 }
 
 .tight-width-whitespace {
