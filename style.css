@@ -27,6 +27,13 @@ a:hover {
     color: white!important;
 }
 
+.texting {
+    min-height: 1px;
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
 #page-loading-blocs-notifaction {
     position: fixed;
     top: 0;
