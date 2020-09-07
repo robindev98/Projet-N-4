@@ -297,6 +297,7 @@ a:hover {
 .row.row-no-gutters > [class*=" col-"] {
     padding-right: 0;
     padding-left: 0;
+    margin-bottom: 5px;
 }
 
 #bloc-1-hero h1 {
