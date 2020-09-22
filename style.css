@@ -14,8 +14,42 @@ button {
 }
 
 a:hover {
-    text-decoration: none;
     cursor: pointer;
+    text-decoration: none;
+}
+
+.btn-atomic-tangerine:focus {
+    outline: none;
+    border: 3px solid blue;
+    border-radius: 100px;
+}
+
+.scrollToTop:focus {
+    outline: none;
+    border: 1px solid blue;
+}
+
+.social:focus {
+    outline: none;
+    border: 2px solid black;
+    font-size: 26px;
+}
+
+
+.para:focus{
+    outline: none;
+    text-decoration: none;
+    border-radius: 100px;
+    border: 3px solid blue;
+}
+
+.imgparap:focus {
+    outline: none;
+    text-decoration: none;
+    border: 2px solid blue;
+    width: 273px;
+    height: 273px;
+    margin: auto;
 }
 
 #rrd {
